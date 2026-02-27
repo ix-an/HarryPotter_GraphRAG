@@ -1,0 +1,2 @@
+# HarryPotter_GraphRAG
+基于Diet_Assistant项目框架做的知识图谱项目
